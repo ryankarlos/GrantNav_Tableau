@@ -1,5 +1,5 @@
-# This work was part of the Data Visualisation Challenge hosted by 360Giving https://challenge.threesixtygiving.org/
-Who funds what themes throughout the years ?
+# 360Giving Data Visualisation Challenge
+This work was part of the Data Visualisation Challenge hosted by 360Giving https://challenge.threesixtygiving.org/. It looks to answer the following question posed by a panel of experts in the grantmaking sector: <i> Who funds what themes throughout the years ? <i/>
 
 The link to the Tableau visualisation dashboard can be found found here https://public.tableau.com/profile/ryan.nazareth#!/vizhome/VisualisationfundingpatternsintheUKgrantmakingsector/Dashboard1?publish=yes
 
