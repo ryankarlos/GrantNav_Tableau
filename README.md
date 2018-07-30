@@ -27,6 +27,6 @@ As required as part of this challenge, this work is licensed under a Creative Co
 
 ## RESOURCES
 
-1)Find that charity http://apps.charitycommission.gov.uk/showcharity/registerofcharities/RegisterHomePage.aspx 
-2)Charity Base https://charitybase.uk/ 
-3)Charity Commission Register of Charities http://apps.charitycommission.gov.uk/showcharity/registerofcharities/RegisterHomePage.aspx
+* Find that charity http://apps.charitycommission.gov.uk/showcharity/registerofcharities/RegisterHomePage.aspx 
+* Charity Base https://charitybase.uk/ 
+* Charity Commission Register of Charities http://apps.charitycommission.gov.uk/showcharity/registerofcharities/RegisterHomePage.aspx
